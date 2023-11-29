@@ -1,4 +1,7 @@
 # Project-6
+
+# Implement a Scoring Model
+
 Dashboard link created : https://btzmufxddbxjhlgu2zlxsv.streamlit.app/
 
 At "Ready to Spend," a financial company specializing in consumer loans, our goal is to make these loans accessible to individuals with little or no credit history. The company "Ready to Spend" aims to establish a "credit scoring" tool based on various data sources to calculate the probability of customer repayment and classify credit applications as approved or denied. Simultaneously, the company is responding to the increasing demand for transparency from customers by developing an interactive dashboard. This dashboard will enable customer relationship managers to transparently explain credit approval decisions and provide customers with easy access to their personal information.
